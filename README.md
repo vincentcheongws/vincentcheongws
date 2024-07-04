@@ -1,4 +1,18 @@
-## Hi there 👋
+### **About me**
+
+<details>
+<summary>Secret</summary>
+
+> "Software are ephemeral; Data is not."
+> \- Anon
+
+<!--
+Idea: Math expression; Diagram
+-->
+</details>
+
+---
+
 
 <!--
 **vincentcheongws/vincentcheongws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

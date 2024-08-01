@@ -3,7 +3,7 @@
 <details>
 <summary>Secret</summary>
 
-> "Software are ephemeral; Data is not."
+> "Software is ephemeral; Data is perpetual."
 > \- Anon
 
 <!--
